@@ -1,0 +1,951 @@
+{
+    "kind": "youtube#playlistItemListResponse",
+    "etag": "B1rcUFx116YZHEXakrSRn7Ls-Rg",
+    "nextPageToken": "EAAaHlBUOkNCUWlFRU0wTWpReFFVWTJRMFZDT0RjM1FUQQ",
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qFC-Scffy1_5dA9o4ECdECVc5a0",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLm16eEowYkEtQ284",
+            "snippet": {
+                "publishedAt": "2025-06-02T10:05:48Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "Quickest v slowest cars of every brand RANKED!",
+                "description": "Change your car with Carwow: https://bit.ly/Change-Your-Car-0206\n\nHave you ever wondered which are the quickest and slowest cars from each manufacturer? Well, wonder no more! \n\nWe\u2019ve pulled together a list of every manufacturer, and we\u2019ve looked through cars they currently have on sale to see which has the largest gap between their quickest and slowest car currently on sale. \n\nThere are a couple of rules for this list. For starters, the manufacturer must sell at least two models, and the cars need to be actually available to buy\u2014sold-out cars are ruled out! \n\nWhat\u2019s more, the cars need to be able to accelerate up to 62mph, and any commercial, pick-up truck and van-based MPVs are ruled out! \n\nGiven this criteria, it\u2019s no surprise to find supercars such as McLaren and Lamborghini ranked quite low in this list. After all, all the cars they manufacture are quick! But can you guess which will take the top spot?  Let us know in the comments!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mzxJ0bA-Co8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mzxJ0bA-Co8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mzxJ0bA-Co8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mzxJ0bA-Co8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mzxJ0bA-Co8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mzxJ0bA-Co8"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aOV9RCb41ZPXfp8vEYV1k_BzHjg",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLjEyZzFnXzRoVVFN",
+            "snippet": {
+                "publishedAt": "2025-05-31T18:04:00Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "Guess the car! \ud83d\ude97",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/12g1g_4hUQM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/12g1g_4hUQM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/12g1g_4hUQM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/12g1g_4hUQM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/12g1g_4hUQM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "12g1g_4hUQM"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fuOOOV9e35mZd2IONTwabbmPAvA",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLmhIakV0QUt2V0M0",
+            "snippet": {
+                "publishedAt": "2025-05-31T08:04:00Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "Ferrari SF90 v 1,000hp Golf R & BMW M240i: DRAG RACE",
+                "description": "Change your car with Carwow: https://bit.ly/Change-Your-Car-2905\n\nIt\u2019s time for a tuned car vs supercar drag race! \n\nWe\u2019ve once again got our hands on the almighty Ferrari SF90, and it\u2019s going up against a VW Golf R & a BMW M240i! But of course, the VW and BMW are able to put down a serious amount of power! Let\u2019s take a closer look at the stats. \n\nFirst up, we have the Golf R. The original engine has been ripped out and replaced with a 2.5-litre 5-cylinder turbo from an RS3! This has been worked on further, and it now produces 1,048hp and 1,114Nm! Power is sent to all four wheels via a 7-speed DCT auto gearbox, and all in, it costs around \u00a3100,000! \n\nNext up, we have the M240i. As with the stock car, it\u2019s packing a 3-litre 6-cylinder turbo, but the engine has been fully built, and it now puts down 1,014hp and 1,100Nm! This power is sent to all four wheels via an 8-speed auto, and all in, it costs around \u00a385,000. \n\nAs for the SF90, it\u2019s equipped with a 4-litre twin-turbo V8 as well as three electric motors! These combine to produce 1,000hp and 800Nm, with power sent to all four wheels via an 8-speed dual-clutch gearbox. The car weighs 1,770kg, and it\u2019s valued at an eye-watering \u00a3550,000!\n\nSo what do you think - can a Golf R & M240i take down an SF90?! There\u2019s only one way to find out\u2026 LET\u2019S RACE!\n\nSubscribe to Carwow Drags:  @Carwow-Drags  \n\nMat\u2019s choice: https://bit.ly/Mats-Choice-2905\n\nHot hatch drag race: https://bit.ly/Drag-Race-2905\n\nThanks to everyone who helped set up this race:\nM240i: https://tomwrigleyperformance.com/\nM240i: https://www.instagram.com/tomwrigleyperformance/\nGolf R: https://www.instagram.com/tcpperformance_/\nGolf R: https://www.youtube.com/@nomessininc.\nSF90: https://www.instagram.com/stevekhera/ \nSF90: https://www.instagram.com/lucky_khera/ \nSF90: https://www.instagram.com/ktc1ltd/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hHjEtAKvWC4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hHjEtAKvWC4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hHjEtAKvWC4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hHjEtAKvWC4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hHjEtAKvWC4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hHjEtAKvWC4"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7idHr1lH0dh3-6hyLIueORPlzwM",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLjRTbzgxa04zcDZB",
+            "snippet": {
+                "publishedAt": "2025-05-30T18:04:00Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "This car has SO many cameras! \ud83d\udcf8\ud83d\udcf8\ud83d\udcf8",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4So81kN3p6A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4So81kN3p6A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4So81kN3p6A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4So81kN3p6A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4So81kN3p6A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4So81kN3p6A"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yeQS0h_4f2v8ucLTeG1XqUqzOdM",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLmtFQ3Z2eGo1T09R",
+            "snippet": {
+                "publishedAt": "2025-05-29T18:04:00Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "The new BMW M2 CS got us like \ud83d\ude0d\ud83e\udd75\ud83d\udea8",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kECvvxj5OOQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kECvvxj5OOQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kECvvxj5OOQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kECvvxj5OOQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kECvvxj5OOQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kECvvxj5OOQ"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bERM6X5-FwXih8zdGeat0e2gS38",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLnl0U3puMVRNdmlZ",
+            "snippet": {
+                "publishedAt": "2025-05-28T18:04:01Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "Is this Honda pretending to be a BMW?!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ytSzn1TMviY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ytSzn1TMviY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ytSzn1TMviY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ytSzn1TMviY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ytSzn1TMviY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ytSzn1TMviY"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VUtvWJX5lRT6q3RTPYUnPQSywhg",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLjZ2ZmpQTVZNazBV",
+            "snippet": {
+                "publishedAt": "2025-05-28T07:07:04Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "New BMW M2 CS & the BEST new cars coming 2025 - 2027!",
+                "description": "Change your car with Carwow: https://bit.ly/Change-Your-Car-2805\n\nSay hello to the all-new BMW M2 CS! \n\nIt\u2019s the most hardcore edition of BMW\u2019s all-new M2, and the BMW M team have gone to town to ensure the new M2 CS stands out over the regular car. So let's take a closer look at what's changed.\n\nFor starters, the kidney grilles, bumper, and front splitter have all been redesigned. Unfortunately, the headlights aren\u2019t gold like those of other CS cars, but we\u2019re not complaining too much\u2014they still look fantastic! \n\nAlong the side of the car, there are all-new bronze alloys, red brake callipers, and the option to add carbon ceramic brakes\u2026 Although they are an \u00a38,000+ option! Around the back, there\u2019s an absolutely massive ducktail spoiler, as well as a carbon fibre diffuser. The roof is also carbon fibre, which comes as standard on the CS. \n\nThe layout of the interior is similar to the regular car, although there is now loads of carbon fibre to be found, coupled with a load of CS badges. The chassis has also been reworked to make it much more track-focused, and it comes with stiffer suspension than the standard M2. \n\nIn terms of performance, the M2 CS has the same 3-litre twin-turbo straight-six as the regular car, but power output has increased from 480hp & 600Nm to 530hp & 650Nm respectively. It\u2019s rear-wheel drive, only available as an automatic, and will cost around \u00a386,000. \n\nBUT, that\u2019s not all! There are a load of other new exciting cars on the horizon, from Ferrari, Mercedes and even Porsche! To find out what they are, stick around for this whole video to see what else is currently in the works!\n\nChapters\n00:00 Intro\n00:32 BMW M2 CS\n04:36 New 3 Series & iX3\n05:12 New Ferraris\n06:07 New Teslas\n06:33 New Mercedes\n07:01 New Nissans\n07:32 Slate Launch\n08:15 New Porsche 911 GT2 RS\n\nThe Jeff Bezos image is licensed under a Creative Commons Attribution 4.0 International License and is provided by the Seattle City Council.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6vfjPMVMk0U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6vfjPMVMk0U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6vfjPMVMk0U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6vfjPMVMk0U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6vfjPMVMk0U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6vfjPMVMk0U"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UeXmMygzfS7M6QIF1WmfzCJs9aQ",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLl9WeTU0cFd1LXlV",
+            "snippet": {
+                "publishedAt": "2025-05-27T18:04:00Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "Out of context Carwow...",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_Vy54pWu-yU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_Vy54pWu-yU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_Vy54pWu-yU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_Vy54pWu-yU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_Vy54pWu-yU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_Vy54pWu-yU"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "odTtRoXaJEaMdAHBWq2eAhsaQUg",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLmJ6S2cxeW9rc3JN",
+            "snippet": {
+                "publishedAt": "2025-05-26T14:22:19Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "Porsche 911 Hybrid v BMW M8 Comp: DRAG RACE",
+                "description": "Change your car with Carwow: https://bit.ly/Change-Your-Car-27-05\n\nIt\u2019s time for an epic German head-to-head! \n\nWe\u2019ve got our hands on the BMW M8 Competition, and it\u2019s going up against the new Porsche 911 Carrera GTS! Let\u2019s take a closer look at our contenders\u2026 \n\nStarting with the Porsche, it\u2019s powered by a 3.6-litre turbocharged flat-six that delivers 541hp and 610Nm of torque. This power is sent to all four wheels via an 8-speed auto, and it tips the scales at 1,645kg. As new, it costs around \u00a3139,100.\n\nThe M8 Competition is powered by a 4.4-litre twin-turbo V8, and this puts down 625hp and 750Nm. As with the M4, power is sent to all four wheels via an 8-speed auto, and it weighs in at 1,975kg. A new one of these will set you back \u00a3137,000.\n\nSo the BMW has more power, but could the hefty weight difference lead to the 911 snatching the win?! There\u2019s only one way to find out for sure\u2026 LET\u2019S RACE!\n\nSave on a BMW M8: https://bit.ly/BMW-M8-Deal\n\nLeasey Deal: https://bit.ly/Leasey-Deal-2705\n\n911 GTS v M4 CS: https://bit.ly/Drag-Race-2705",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bzKg1yoksrM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bzKg1yoksrM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bzKg1yoksrM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bzKg1yoksrM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bzKg1yoksrM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bzKg1yoksrM"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cvd9u2WnN6VWCmRGHEM--wdk51g",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLkt5X2w5RnhTSE9z",
+            "snippet": {
+                "publishedAt": "2025-05-24T08:04:00Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "911 GT3 RS v AMG GT R: DRAG RACE",
+                "description": "Get 20% off Car Vertical using code Carwow: https://bit.ly/Carwow-Car-Vertical\n\nWe'd like to say a huge thank you to the Al Ain Municipality (https://www.instagram.com/alainmun) and Tilal Swaihan (https://www.instagram.com/tilalswaihan) for providing the amazing drag strip, built to the highest standards to ensure safe racing and car proving away from the public roads.\n\nThanks, too, goes to Super Cars Majlis (https://www.instagram.com/supercarsmajlis) for inviting its amazing members along and providing the cars you see in our videos.\n\nAlso, a massive thanks goes to Ryan Griffiths at Syvecs (https://www.instagram.com/ryansyvecs) for his help in organising these races!\n\n\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\u2026\n\nIt\u2019s time for a supercar showdown! \n\nWe\u2019ve got Mat in the 992 GT3 RS, and he\u2019s going up against racing driver Sam in the Mercedes-AMG GT R! But which will come out on top over the quarter-mile? Let\u2019s take a closer look at the stats. \n\nStarting with the Porsche, it\u2019s powered by a 4-litre naturally-aspirated flat-six that can produce 525hp and 465Nm of torque. This power is sent to the rear wheels via a 7-speed dual-clutch gearbox, and the car tips the scales at 1,450kg. It has a price tag of \u00a3192,600. \n\nAs for the AMG, it\u2019s powered by a 4-litre twin-turbo V8 which creates 585hp and 700Nm. This power is sent to the rear wheels only via a 7-speed auto gearbox, and it weighs in at 1,555kg. When this was new, it cost \u00a3156,000. \n\nThis one\u2019s going to be close! But can you pick a winner? There\u2019s only one way to find out what will happen\u2026 LET\u2019S RACE!\n\nChange your car with Carwow: https://bit.ly/Change-Your-Car-2405\n\nMat\u2019s choice: https://bit.ly/Mats-Choice-2405\n\nhttps://bit.ly/AMG-GT-v-R8-GT-v-911-Turbo",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ky_l9FxSHOs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ky_l9FxSHOs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ky_l9FxSHOs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ky_l9FxSHOs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ky_l9FxSHOs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ky_l9FxSHOs"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "icMNbGruHvEJRJ0FHFmGArEvQZM",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLllBRDVkVkVnb1BN",
+            "snippet": {
+                "publishedAt": "2025-05-22T18:04:00Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "Chat, is this real?!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YAD5dVEgoPM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YAD5dVEgoPM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YAD5dVEgoPM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YAD5dVEgoPM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YAD5dVEgoPM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YAD5dVEgoPM"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QhwbvVKD8B9iD0oMTQytCgQFXm4",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLkx1QkhKa1ZmLXhR",
+            "snippet": {
+                "publishedAt": "2025-05-22T13:04:00Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "Has Volvo finally nailed it?",
+                "description": "Change your car with Carwow: https://bit.ly/Change-Your-Car-2205\n\nThis is the new Volvo XC90! \n\nIt\u2019s the second facelift this version of the XC90 has received, having originally been released way back in 2015! The question is, how much has changed compared to the two previous iterations? And is it still one of the best 7-seaters around? Mat\u2019s about to take a closer look and find out. \n\nIn terms of the design, there are a few updates over the previous edition. Up front, there\u2019s a new bumper, a redesigned grille, and some updated headlights. Along the side, it\u2019s pretty much the same as it was before, although that\u2019s no surprise given the body panels have been retained from the previous edition. Around the back, the car is still almost identical to before, although options are fairly limited anyway when you\u2019re a big seven-seat SUV! \n\nOn the inside, there are a few notable changes. The infotainment screen now sticks out from the dash, and the operating system has been updated to Android Auto. The cabin is covered in soft-touch materials, and the general layout is still relatively the same as before. The digital dial screen has been retained, although it\u2019s quite dark - competitors like the Audi Q7 certainly do it better. \n\nRegarding engines, there are only two to choose from. Both are 2-litre 4-cylinders, with the entry-level coming with a mild hybrid set-up that delivers 250hp. A plug-in hybrid option is also available, which adds a bigger motor and helps to produce 455hp. Both setups come with all-wheel drive and an 8-speed automatic gearbox. \n\nThe new XC90 certainly looks the part, but it doesn\u2019t come cheap! The entry-level starts from \u00a365,000, with the range-topper (the car we have for this video) costs around \u00a378,000. So is it worth it? Stick with Mat to take a closer look! \n\nMat\u2019s Volvo XC90 choice: https://bit.ly/Mats-XC90-Choice-2025\n\nLand Rover Defender review: https://bit.ly/LR-Defender-Review\n\nAudi SQ7 review: https://bit.ly/Audi-Q7-Review-2025\n\nChapters\n00:00 Intro\n00:30 Previous Generation\n00:50 Design\n02:47 Interior\n06:03 Price\n06:35 Options\n07:24 Back Seats\n11:05 Boot\n13:38 Engines\n15:05 Town Driving\n17:28 Cruising & Acceleration\n18:37 Sports Mode Driving\n21:12 0-60mph & Brake Test\n22:27 Verdict",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LuBHJkVf-xQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LuBHJkVf-xQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LuBHJkVf-xQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LuBHJkVf-xQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LuBHJkVf-xQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LuBHJkVf-xQ"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9xgnfDHxFX7aEEui0I5H6Xxv-JU",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLjVMNE1JQ0N2TWl3",
+            "snippet": {
+                "publishedAt": "2025-05-21T09:04:00Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "New Nissan Micra revealed!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5L4MICCvMiw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5L4MICCvMiw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5L4MICCvMiw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5L4MICCvMiw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5L4MICCvMiw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5L4MICCvMiw"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jxnYvmZ_rpseVuJBx2GW0Zp5pIY",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLm94ejVBa1JUNUNz",
+            "snippet": {
+                "publishedAt": "2025-05-20T10:04:25Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "Every Ariel Atom DRAG RACE",
+                "description": "Change your car with Carwow: https://bit.ly/Change-Your-Car-2005\n\nIt\u2019s time for an Ariel Atom showdown!! \n\nWe\u2019ve got our hands on all four generations of Ariel Atom, and they\u2019re about to go head-to-head over the quarter-mile! The question is, how much has this track-focused legend progressed? Let\u2019s find out. \n\nStarting with the original Atom 1, it\u2019s powered by a 1.8-litre NA 4-cylinder that produces 120hp and 145Nm. This is sent to the rear wheels via a 5-speed manual, and it only weighs 456kg! These days it\u2019ll cost around \u00a325,000. \n\nNext up is the Atom 2. It has a 2-litre supercharged 4-cylinder that puts down 300hp and 259Nm. Power is sent to the rear via a 6-speed manual, and it tips the scales at 496kg. In 2025, it\u2019ll cost around \u00a340,000. \n\nAlongside it, we have the 3.5-R. It\u2019s also powered by a 2-litre supercharged 4-cylinder, but in this instance it creates 355hp and 330Nm. This is sent to the rear wheels via a 6-speed sequential, and it tips the scales at 550kg. As new, it costs \u00a380,000. \n\nThen finally we have the latest edition, the 4R. It rolls up with a 2-litre turbocharged 4-cylinder, and it creates  406hp and 500Nm. It has rear wheel drive, a 6-speed sequential, and it tips the scales at 665kg. As new, it costs an eye-watering \u00a3140,000! \n\nSo will it be a walkover for the 4R? Or could one of the older, lighter models spring a surprise? There\u2019s only one way to find out\u2026 LET\u2019S RACE!\n\nSubscribe to Carwow Drags: @Carwow-Drags \n\nMat\u2019s performance car choice: https://bit.ly/Mats-Choice-2005\n\nSupercar vs VW Beetle drag race: https://bit.ly/Drag-Race-2005\n\nThanks to @ArielMotorCompany for helping to set up this race!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oxz5AkRT5Cs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oxz5AkRT5Cs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oxz5AkRT5Cs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oxz5AkRT5Cs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oxz5AkRT5Cs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oxz5AkRT5Cs"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "037QJi_fStsaYwV55EDh1fsU6P4",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLnN2ZDh6RFBlT280",
+            "snippet": {
+                "publishedAt": "2025-05-19T18:04:00Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "This van can weigh itself! \ud83d\ude31",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/svd8zDPeOo4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/svd8zDPeOo4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/svd8zDPeOo4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/svd8zDPeOo4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/svd8zDPeOo4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "svd8zDPeOo4"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KghuzhI-vYoB5xPYU0U40z_Ff5w",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLjlxQ0lBZUFmY3VF",
+            "snippet": {
+                "publishedAt": "2025-05-19T14:18:19Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "New Skoda Elroq Review",
+                "description": "Change your car with Carwow: https://bit.ly/Change-Your-Car-1905\n\nMeet the Skoda Elroq! \n\nIt\u2019s an all-new mid-sized electric SUV, and it\u2019s meant to compete with class leaders such as the Kia EV3 and Hyundai Kona Electric. The question is, should the Elroq be at the top of your shopping list if you\u2019re in the market for a car such as this? Let\u2019s take a closer look. \n\nRegarding the design, the Elroq looks pretty stylish on the outside. Given it\u2019s electric there\u2019s no grille at the front but the split DRLs and headlights help give it presence, as do the grooves on the bonnet. Along the side the satin roof bars stand out to help give it some definition, while around the back it\u2019s all pretty standard, but then again that\u2019s no bad thing! \n\nStep inside and you might be surprised by how much room there is, especially for passengers in the back! Up front, the majority of the cabin is covered in soft-touch materials, and there\u2019s a large infotainment screen on the dash. Unfortunately, the climate controls are managed through the screen, but at least the system is pretty responsive. There\u2019s loads of storage to be found, and there\u2019s also a digital driver display, although it\u2019s relatively small. \n\nThere are a couple of models available in the Elroq range. It kicks off with the Elroq 50, which is equipped with a single motor for 170hp, a 52kWh battery, and a claimed range of 232 miles. The model we\u2019re reviewing here is the 85, which has a 77kWh battery, a claimed range of 355 miles, and a single motor.\n\nThe entry-level Elroq is priced from \u00a331,510, rising up to around \u00a340,000 for the top-of-the-range edition. So is it worth it? You\u2019ll need to stick with Mat to see for yourself!\n\nMat\u2019s Elroq choice: https://bit.ly/Mats-Choice-1905\n\nCheck out Ask Mat: https://bit.ly/Ask-Mat-1905\n\nChapters\n00:00 Intro\n00:21 Front Design\n01:42 Price\n02:49 Side Profile & Rear\n03:42 Interior\n09:19 Back Seats\n12:32 Boot\n15:27 Range\n16:26 0-60mph & Brake Test\n17:09 Driver Assist Settings\n19:04 Town Driving\n21:19 Acceleration\n21:50 Sports Mode Driving\n22:36 Real-world Range\n22:52 Verdict",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9qCIAeAfcuE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9qCIAeAfcuE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9qCIAeAfcuE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9qCIAeAfcuE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9qCIAeAfcuE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9qCIAeAfcuE"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hfdE0Df99JdAjftQXXPk6VObQqk",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLjJaWjlqdUNsWnFj",
+            "snippet": {
+                "publishedAt": "2025-05-17T18:04:00Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "1,020hp M5 vs 1,000hp SF90 DRAG RACE! \ud83d\udd25",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2ZZ9juClZqc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2ZZ9juClZqc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2ZZ9juClZqc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2ZZ9juClZqc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2ZZ9juClZqc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2ZZ9juClZqc"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hNwm7BQjmdKrYzLogLmF8CZjE-Y",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLk5XWHBsT2UxU3Uw",
+            "snippet": {
+                "publishedAt": "2025-05-17T08:04:01Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "Ford F-150 Raptor R v AMG G63: DRAG RACE",
+                "description": "Change your car with Carwow: https://bit.ly/Change-Your-Car-1605\n\nSubscribe to Carwow Drags: @Carwow-Drags \n\nIt\u2019s time for a Germany vs USA showdown! \n\nWe\u2019ve got Mat in the incredible Mercedes-AMG G63, and it\u2019s going up against the absolutely huge Ford F-150 Raptor R! So, can German power take down American power? Let\u2019s check out the stats. \n\nThe G63 is powered by a 4-litre twin-turbo V8 that produces 585hp and 850Nm of torque. Power is sent to all four wheels via a 9-speed automatic gearbox, and it tips the scales at 2,550kg. As new, it costs around \u00a3185,000. \n\nNext up, we have the F-150 Raptor R. It\u2019s packing a 5.2-litre supercharged V8 that creates 720hp and 868Nm. Power is sent to all four wheels via a 10-speed auto, and it tips the scales at 2,699kg. If you\u2019re looking to buy one in the UK, it\u2019ll cost around \u00a3168,000. \n\nSo will the extra weight prove to be the undoing of the F-150? There\u2019s only one way to find out\u2026 LET\u2019S RACE!\n\nMat's deal of the day: https://bit.ly/Mats-Choice-170525\n\nAmerican Car Drag Race: https://bit.ly/Drag-Race-1705\n\nThanks to everyone who helped set up this race: \n- F-150 Raptor R: https://www.clivesutton.co.uk/\n- AMG G63: https://ixrental.com/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NWXplOe1Su0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NWXplOe1Su0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NWXplOe1Su0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NWXplOe1Su0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NWXplOe1Su0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NWXplOe1Su0"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kIDqo0yO0uZiUjbXUjVbRDPmMEg",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLkZvVVotZ0F0d2Fr",
+            "snippet": {
+                "publishedAt": "2025-05-16T18:04:00Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "Lexus LX600 vs Nissan Patrol brake test!",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FoUZ-gAtwak/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FoUZ-gAtwak/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FoUZ-gAtwak/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FoUZ-gAtwak/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FoUZ-gAtwak/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FoUZ-gAtwak"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZBmbZhJkvF26GGexCxFcxGQgCB0",
+            "id": "VVVVaEZhVXBucTMxbTZUTlgyVktWU1ZBLjFraERWVkpPRERN",
+            "snippet": {
+                "publishedAt": "2025-05-15T12:10:51Z",
+                "channelId": "UCUhFaUpnq31m6TNX2VKVSVA",
+                "title": "Why the new Porsche Panamera is ALMOST perfect!",
+                "description": "Change your car with Carwow: https://bit.ly/Change-Your-Car-1505\n\nThis is the all-new Porsche Panamera! \n\nMat\u2019s got his hands on Porsche\u2019s latest family-friendly cruiser to see what\u2019s changed compared to its predecessors. What\u2019s more, he\u2019s also going to see if it has what it takes to go head-to-head against competitors like the Audi RS7. Let\u2019s take a closer look\u2026 \n\nStarting with the design, this new generation of Panamera is easily the best-looking to date. Up front the design borrows elements from the latest Cayenne, has some smart creases along the bonnet, and any vents integrated into the bumper serve a real purpose. Along the side, proper door handles have replaced the pop-out ones from before, and the wide rear haunches give the car more presence on the road. The rear end has been slightly redesigned, but it\u2019s still unmistakably a Panamera. All in, it looks seriously smart and sophisticated. \n\nThe style and quality continue through to the interior as well. Soft-touch, high-quality materials throughout the cabin, and the infotainment screen is crisp, sharp, and responsive. The digital dials are customisable and bright, and there\u2019s ample adjustment in the seats to offer the perfect view out. There may not be too much storage around the front of the cabin, but when you\u2019re in a car this nice, does it really matter? \n\nThe entry-level Panamera is powered by a 2.9-litre V6 turbo that produces 353hp and 500Nm. There are various pure ICE and hybrid models throughout the range, all the way up to the range-topping Panamera Turbo S e-Hybrid, which combines a 4-litre twin-turbo V8 and an electric motor to produce 782hp and 1,000Nm of torque! \n\nAs for the price, the Panamera range kicks off from around \u00a389,400. However, if you\u2019re in the market for one of the V8-powered cars, this kicks off with the GTS, which starts from \u00a3131,700, rising all the way up to around \u00a3175,000 for the range-topping Turbo S e-Hybrid! So is it worth it? You\u2019ll need to stick with Mat to see for yourself!\n\nAudi RS7 review: https://bit.ly/Audi-RS7-Review-1505\n\nMat\u2019s used Panamera deal: https://bit.ly/Mats-Used-Panamera-Deal-1505\n\nChapters\n00:00 Intro\n00:33 Design\n02:02 Price\n03:12 Interior\n06:08 Back Seats\n07:39 Boot\n08:42 Annoying Features\n10:33 Cool Features\n12:13 Engines\n12:53 Best Version\n13:27 Town Driving\n14:32 Acceleration\n15:49 Tax\n16:16 Country Road Driving\n17:34 0-60mph\n17:53 Verdict",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1khDVVJODDM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1khDVVJODDM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1khDVVJODDM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1khDVVJODDM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1khDVVJODDM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "carwow",
+                "playlistId": "UUUhFaUpnq31m6TNX2VKVSVA",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1khDVVJODDM"
+                },
+                "videoOwnerChannelTitle": "carwow",
+                "videoOwnerChannelId": "UCUhFaUpnq31m6TNX2VKVSVA"
+            }
+        }
+    ],
+    "pageInfo": {
+        "totalResults": 3127,
+        "resultsPerPage": 20
+    }
+}
