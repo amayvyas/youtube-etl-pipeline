@@ -1,47 +1,46 @@
-# 📺 YouTube Data Engineering Pipeline
+# YouTube ETL Pipeline & Analytics Dashboard
 
-This project is a full-fledged **ETL pipeline** that fetches video metadata from the **YouTube Data API**, transforms it using **pandas**, loads it into a **PostgreSQL database**, and visualizes key metrics with a **Streamlit dashboard**.
-
-> 💼 Built to showcase real-world data engineering skills — ingestion, transformation, storage, and analytics — all modular and production-ready.
+This repository contains a complete end-to-end data engineering project that extracts YouTube video metadata, transforms the data, loads it into a PostgreSQL database, and visualizes key insights using a Streamlit dashboard.
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Project Overview
 
-| Layer         | Tools Used                     |
-|---------------|--------------------------------|
-| Ingestion     | YouTube Data API, `requests`   |
-| Transformation| `pandas`                       |
-| Storage       | `PostgreSQL`, `psycopg2`       |
-| Dashboard     | `Streamlit`                    |
-| Config Mgmt   | `.env`, `python-dotenv`        |
+- **Extract** YouTube video metadata using YouTube API.
+- **Transform** the raw data with pandas (cleaning, filtering, formatting).
+- **Load** the cleaned data into a PostgreSQL database.
+- **Visualize** the video analytics with an interactive Streamlit dashboard.
+
+This project demonstrates a real-world data engineering workflow — from data ingestion to live dashboarding.
 
 ---
 
-## 🧱 Architecture
+## 📊 Live Demo
 
-+-------------+ +----------------+ +------------------+ +-----------------+
-| YouTube API | --> | ingest.py | --> | transform.py | --> | load.py |
-+-------------+ +----------------+ +------------------+ 
+Check out the live Streamlit dashboard here:  
+https://youtube-etl-pipeline-dzu7irzweoxjbubug2fbtu.streamlit.app
 
-| PostgreSQL DB |
-+--------+--------+
-|
-v
-+-----------------+
-| Streamlit Dash |
-| dashboard.py |
-+-----------------+
+---
 
+## 🛠️ Tech Stack
 
-## 🧪 How to Run Locally
+- Python
+- YouTube Data API v3
+- pandas
+- PostgreSQL
+- psycopg2
+- Streamlit
+- dotenv for environment management
 
-### 1. Clone the repo
+---
 
-```bash
-git clone https://github.com/your-username/yt-data-pipeline.git
-cd yt-data-pipeline
-```
+## 📝 Setup & Run Locally
+
+### 1. Clone the repo:
+   ```bash
+   git clone https://github.com/amayvyas/youtube-etl-pipeline.git
+   cd youtube-etl-pipeline
+   ```
 
 ### 2. Install dependencies
 
@@ -68,20 +67,42 @@ python transform.py
 python load.py
 ```
 
-### 📌 Features
- - Pulls real data using YouTube Data API
+### 5. Run the Streamlit dashboard:
 
- - Cleans and transforms with pandas
+```bash
+streamlit run yt-data-pipeline/dashboard.py
+```
 
- - Inserts safely with PostgreSQL and ON CONFLICT
+### 📂 Project Structure
 
- - Filter/search in the dashboard
+``` 
+youtube-etl-pipeline/
+├── data/
+│   └── cleaned_videos.csv        # Cleaned data used for loading & dashboard
+├── yt-data-pipeline/
+│   ├── ingest.py                 # Extract data from YouTube API
+│   ├── transform.py              # Transform and clean the raw data
+│   ├── load.py                   # Load data into PostgreSQL
+│   └── dashboard.py              # Streamlit dashboard for visualization
+├── .env.example                  # Example environment variables
+├── requirements.txt
+└── README.md
+```
 
- - Production-ready with environment isolation
+### 🛡️ Notes
+ - The dashboard reads from data/cleaned_videos.csv to avoid database dependency during demo.
 
+ - Make sure to push cleaned_videos.csv to GitHub or the app will fail to load the data.
+
+ - For production, connect the dashboard to PostgreSQL for real-time analytics.
 
 ### 📜 License
 MIT License
 
-### 🙌 Contributing
-Feel free to fork, raise issues or PRs. This project is built for learning and showcasing, so extend it however you want!
+### 🤝 Contributions & Feedback
+PRs, issues, and suggestions are welcome!
+This is a personal portfolio project aiming to showcase a data engineering workflow end-to-end.
+
+### 📞 Contact
+> Amay Vyas – amay22vyas@gmail.com <br>
+> GitHub: https://github.com/amayvyas
