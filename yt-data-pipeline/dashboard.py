@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 
 # Load cleaned CSV (avoid DB connection issues on Streamlit Cloud)
-df = pd.read_csv("/yt-data-pipeline/cleaned_videos.csv")
+df = pd.read_csv("yt-data-pipeline/cleaned_videos.csv")
 
 st.set_page_config(page_title="YouTube Channel Analytics", layout="wide")
 
